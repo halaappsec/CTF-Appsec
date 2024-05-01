@@ -15,7 +15,7 @@ After login firest time and logout :
 User: Ahmad@appsec.sa 
 Password: appsec
 ```
-![CTF flagopenredirect](image.png "Flag Open Redirect CTF")
+![CTF flagopenredirect](image1.png "Flag Open Redirect CTF")
 
 ## Flag
 
