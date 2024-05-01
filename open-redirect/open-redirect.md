@@ -15,5 +15,9 @@ After login firest time and logout :
 User: Ahmad@appsec.sa 
 Password: appsec
 ```
-this the page try to ply
-![CTF openredirect](image.png "Open Redirect CTF")
+![CTF flagopenredirect](image.png "Flag Open Redirect CTF")
+
+## Flag
+
+
+![CTF openredirect](page.png "Open Redirect CTF")
