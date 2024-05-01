@@ -1,4 +1,4 @@
-# Challenge 1: Open Redirect
+# Challenge : Open Redirect
 
 To start the Open Redirect challenge, run the following command:
 
