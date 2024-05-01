@@ -18,7 +18,7 @@ Pass: appsec
 ```
 ![CTF flagopenredirect](login.png "Flag Open Redirect CTF")
 
-![CTF flagopenredirect]((userA.png "Flag Open Redirect CTF")
+![CTF flagopenredirect](userA.png "Flag Open Redirect CTF")
 
 ## Flag
 
