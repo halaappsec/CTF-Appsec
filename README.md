@@ -46,7 +46,7 @@ docker run -p 8000:80 appsechala/broken-access
 ```
 This will start the challenge on your local machine and make it accessible via `http://localhost:8000`or `http://0.0.0.0:8000`
 
-### Challenge 3: Brute Force
+### Challenge 4: Brute Force
 
 To start the  Brute Force challenge, run the following command:
 
