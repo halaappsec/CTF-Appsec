@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "8IHs834bOTgPDX0E+lP547yPzmaabCRy2nPg24zWu84=",
+  "Source": "MyWebApiApp",
+  "BasePath": "_content/MyWebApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApiApp/wwwroot",
+      "Source": "MyWebApiApp",
+      "ContentRoot": "/home/appsec/Desktop/app/MyWebApiApp/wwwroot/",
+      "BasePath": "_content/MyWebApiApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/appsec/Desktop/app/MyWebApiApp/wwwroot/index.html",
+      "SourceId": "MyWebApiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/appsec/Desktop/app/MyWebApiApp/wwwroot/",
+      "BasePath": "_content/MyWebApiApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

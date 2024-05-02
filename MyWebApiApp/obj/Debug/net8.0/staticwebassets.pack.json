@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/appsec/Desktop/app/MyWebApiApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyWebApiApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyWebApiApp.props",
+      "PackagePath": "build\\MyWebApiApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyWebApiApp.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApiApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyWebApiApp.props",
+      "PackagePath": "buildTransitive\\MyWebApiApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
